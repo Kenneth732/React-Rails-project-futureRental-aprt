@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  price: 9.99
+  rate: 1
+  category: MyString
+  agent: one
+
+two:
+  image: MyString
+  price: 9.99
+  rate: 1
+  category: MyString
+  agent: two
